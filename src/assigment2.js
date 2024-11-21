@@ -1,8 +1,8 @@
 let profession = " physician";
 console.log(profession);
 
-let string = " 5 "; //sting
-let number = 5; //number
+//let string = " 5 "; //sting
+//let number = 5; //number
  
 let Number =  19;
 console.log(Number);
@@ -10,6 +10,7 @@ console.log(Number);
 let happy = true;
 let sad = false;
 console.log( happy); //true
+coonsole.log(sad);//false
 
 console.log( 5 > 3);
 console.log(5 < 3);
